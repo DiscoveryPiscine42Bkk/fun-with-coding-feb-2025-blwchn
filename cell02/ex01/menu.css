@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(253, 234, 149);
+  }
+
+select {
+    background-color: rgb(161, 192, 238);
+    color:rgb(128, 5, 1);
+    padding: 16px;
+    font-size: 20px;
+}
+
